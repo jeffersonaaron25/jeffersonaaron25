@@ -1,6 +1,6 @@
 Hello!
 
-I am Jefferson Aaron. Nice to meet you!
+I am Jefferson Nelsson. Nice to meet you!
 
 I am a dedicated and passionate developer with expertise in Cloud Architecture, specifically in Google Cloud Platform (GCP) and Amazon Web Services (AWS). My proficiency extends to creating scalable and efficient Flask APIs in Python, which have been instrumental in delivering robust and responsive applications. In addition, I have a strong background in DevOps practices, including continuous integration and deployment (CI/CD), containerization, and infrastructure as code (IaC). I thrive in collaborative environments and am committed to delivering high-quality solutions that drive innovation and improve user experiences.
 
