@@ -8,7 +8,7 @@ I am a dedicated and passionate developer with expertise in Cloud Architecture, 
 
 🚀 In my free time, I enjoy dancing, building personal projects, expanding my knowledge and experimenting with new tech.
 
-📫 You can reach me via [Linkedin](https://www.linkedin.com/in/jeffersonaaron/) or [E-Mail](mailto:jefferson.aaron25@gmail.com).
+📫 You can reach me via [Linkedin](https://www.linkedin.com/in/jeffersonaaron/). 
 
 Cheers :)
 
