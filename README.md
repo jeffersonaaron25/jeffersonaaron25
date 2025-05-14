@@ -1,16 +1,22 @@
-Hello! 👋
+Hey, I'm Jeff! 👋
 
-I am Jefferson Nelsson. Nice to meet you!
+I build 🛠️ AI‑powered solutions for a living.
 
-I am a dedicated and passionate developer with expertise in Cloud Architecture, specifically in Google Cloud Platform (GCP) and Amazon Web Services (AWS). My proficiency extends to creating scalable and efficient Flask/FAST APIs in Python, which have been instrumental in delivering robust and responsive applications. In addition, I have a strong background in DevOps practices, including continuous integration and deployment (CI/CD), containerization, and infrastructure as code (IaC). I'm actively experimenting with LLM integrations such as LangChain and improving my knowledge and understanding. I also have experience in front-end development with JavaScript frameworks such as React JS and React-Native, as well as Android and iOS app deployment. I thrive in collaborative environments and am committed to delivering high-quality solutions that drive innovation and improve user experiences.
+What I'm exploring right now:
+Experimenting with and innovating out-of-the-box GenAI solutions—anything that helps LLMs create real‑world impact.
 
-🧑‍🎓 Recently, I graduated with a Master's in Computer Engineering at New York University. Some of my courses were Machine Learning, Deep Learning, Data Centers & Cloud Computing and Network Security.
+Tech I reach for:
+Python · PyTorch · LangGraph · React · Next.js
 
-🚀 In my free time, I enjoy dancing, building personal projects, expanding my knowledge and experimenting with new tech.
+Stuff I’ve done:
+M.S. Computer Engineering – New York University (’24)
+Life...
 
-📫 You can reach me via [Linkedin](https://www.linkedin.com/in/jeffersonaaron/). 
+Away from the keyboard:
+When I’m not staring at the logs I’m probably dancing or road‑tripping.
 
-Cheers :)
+Let’s connect
+DMs are open on [Linkedin](https://www.linkedin.com/in/jeffersonaaron/).
 
 <!---
 jeffersonaaron25/jeffersonaaron25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
