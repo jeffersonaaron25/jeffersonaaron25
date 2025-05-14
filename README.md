@@ -16,7 +16,7 @@ Python · PyTorch · LangGraph · React · Next.js
 When I’m not staring at the logs I’m probably dancing or road‑tripping.
 
 ------------
-Let’s connect
+Let’s connect!
 DMs are open on [Linkedin](https://www.linkedin.com/in/jeffersonaaron/).
 
 <!---
