@@ -9,8 +9,8 @@ Experimenting with and innovating out-of-the-box GenAI solutions—anything that
 Python · PyTorch · LangGraph · React · Next.js
 
 ## Stuff I’ve done:
-M.S. Computer Engineering – New York University (’24)
-Life...
+- M.S. Computer Engineering – New York University (’24)
+- Life...
 
 ## Away from the keyboard:
 When I’m not staring at the logs I’m probably dancing or road‑tripping.
