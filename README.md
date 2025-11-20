@@ -1,6 +1,6 @@
 ## Hey, I'm Jeff! 👋
 
-I build 🛠️ AI‑powered solutions for a living.
+I build 🛠️ AI‑powered solutions for a living. [See more](https://jefferson-nelsson.com)
 
 ## What I'm exploring right now:
 Experimenting with and innovating out-of-the-box GenAI solutions—anything that helps LLMs create real‑world impact.
